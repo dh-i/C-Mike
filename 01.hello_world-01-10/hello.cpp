@@ -9,6 +9,7 @@
 
 int main(){
     std::cout << "Hello world \n" << std::endl;
+    std::cout << 15.0/4.0 << std::endl;
     return EXIT_SUCCESS; //this is same as return 0;
 }
 
