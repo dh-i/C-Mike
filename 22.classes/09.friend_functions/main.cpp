@@ -26,4 +26,6 @@ void PrintPrivateMemeberVariableOfUDT(UserDefinedType u){
 
 int main(){
     UserDefinedType instance;
+
+    PrintPrivateMemeberVariableOfUDT(instance);
 }
